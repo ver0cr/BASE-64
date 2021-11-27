@@ -1,15 +1,15 @@
 # Encripta tu mensaje
 
-##Descripción del proyecto
+#Descripción del proyecto
 ¿Buscas mandar un mensaje de forma confidencial? "Encripta tu mensaje" es una página web en la cual podrás cifrar y descifrar mensajes que solo tú y la persona a la que va dirigida podrán entender
 
-##¿En qué situaciones usarlo?
+#¿En qué situaciones usarlo?
 
  En caso de encontrarse en una situación de violencia y deseas pedir ayuda
  Para comunicarte con una persona de manera más privada
  Para mandarle mensajes secretos a tus congresistas favs 
 
-##¿Cómo usarlo?
+#¿Cómo usarlo?
 - Entra a la página web mediante el siguiente link [Heading link](https://github.com/pandao/editor.md "Heading link")  también se encuentra en la descripción del proyecto.
 
 
