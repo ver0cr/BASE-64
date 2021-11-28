@@ -8,7 +8,7 @@
  En caso de encontrarse en una situación de violencia y deseas pedir ayuda o para comunicarte con una persona de manera más privada puedes optar por el encriptado BASE 64
 
 ### ¿Cómo usarlo?
-- Entra a la página web mediante el siguiente link  también se encuentra en la descripción del proyecto.
+- Entra a la página web mediante el siguiente link [] también se encuentra en la descripción del proyecto.
 
 - Presiona el botón comenzar.
 
