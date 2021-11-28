@@ -20,8 +20,8 @@
 
 - Para conocer más acerca del encriptado BASE 64 puedes hacer click en "Encriptado BASE 64" en la barra superior.
 
-En la misma barra puedes copiar el mensaje que deseas desencriptar.
+- En la misma barra puedes copiar el mensaje que deseas desencriptar.
 
-En la opción creadores podrás encontras los nombres de, nosotras, las creadoras de la página web.
+- En la opción creadores podrás encontras los nombres de, nosotras, las creadoras de la página web.
 
-Para conocer más acerca del encriptado BASE 64 puedes hacer click en "Encriptado BASE 64" en la barra superior.
+- Para conocer más acerca del encriptado BASE 64 puedes hacer click en "Encriptado BASE 64" en la barra superior.
